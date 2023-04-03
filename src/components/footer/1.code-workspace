@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Новая папка (2)/1"
+		},
+		{
+			"path": "../../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "freelance-portfolio-react"
+	}
+}
